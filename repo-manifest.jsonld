@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ibis-project/governance/commit/f449f3f21da9b428220c879d78d8f0e434916fc7",
       "git:hexsha": "f449f3f21da9b428220c879d78d8f0e434916fc7",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }

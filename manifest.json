@@ -1,0 +1,22 @@
+{
+  "manifest_version": "1.0",
+  "org": "ibis-project",
+  "repo": "governance",
+  "versions": [
+    {
+      "commit": "f449f3f21da9b428220c879d78d8f0e434916fc7",
+      "parsed_at": "2026-10-21T19:51:30.576444+00:00",
+      "filetree": "filetree/f449f3f21da9b428220c879d78d8f0e434916fc7.nq.gz",
+      "blobs": [
+        "blob/056740c970441d2a98de96d35dc614a425e945f9.nq.gz",
+        "blob/1b62200333452b9522b14b02d9a4081e5d034f77.nq.gz",
+        "blob/ade1ebab6cb56da0ddef0e5141133ed265a42514.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}

@@ -1,0 +1,11 @@
+{
+  "org": "ibis-project",
+  "repo": "governance",
+  "versions": [
+    {
+      "commit": "f449f3f21da9b428220c879d78d8f0e434916fc7",
+      "tag": "",
+      "parsed_at": "2026-10-21T19:53:39.846815+00:00"
+    }
+  ]
+}
